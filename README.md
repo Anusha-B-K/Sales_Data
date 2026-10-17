@@ -11,7 +11,11 @@ An iterative dashboard visualizing global sales data to track revenue growth, pr
 
 **Insights:** 
 1.Sales Performance: Analyse overall revenue and sales trends over time to understand business growth.
+
 2.Profitability: Evaluate total profit and profit margins to assess business performance.
+
 3.Regional Analysis: Compare regional sales to identify high-performing and underperforming markets.
+
 4.Product Analysis: Examine product and category performance to understand their contribution to total sales and profit.
+
 5.Business Recommendations: Use data-driven findings to support better pricing, cost management, and sales stratergies.
